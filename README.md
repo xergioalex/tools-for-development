@@ -3,10 +3,12 @@ This is a collaborative list of software, tools, libraries and whatnot that can 
 
 ---
 
+
 ### COOL TOOLS COMMUNITIES
 * Product Hunt: http://www.producthunt.com/
 * Free-for-dev: https://github.com/ripienaar/free-for-dev (A list of Services that have free tiers of interest to dev)
 * ToolsOfTheTrade: https://github.com/cjbarber/ToolsOfTheTrade
+
 
 
 ### FRAMEWORKS
@@ -27,7 +29,8 @@ This is a collaborative list of software, tools, libraries and whatnot that can 
 * NativeScript: https://www.nativescript.org/ (Build truly native apps with JavaScript)
 
 
-FRONTEND
+
+### FRONTEND
 * Bootstrap: http://getbootstrap.com/ (The most popular front-end framework)
 * Jasny Bootstrap: http://www.jasny.net/bootstrap/ (The missing components for your favorite front-end framework.)
 * Foundation: http://foundation.zurb.com/ (The most advanced responsive front-end framework in the world.)
@@ -66,13 +69,15 @@ FRONTEND
 * Titatoggle: http://kleinejan.github.io/titatoggle/ (Awesome toggle buttons without Javascript)
 * Material design waves effect: http://fian.my.id/Waves/
 * Disorted buttons effects: http://tympanus.net/Development/DistortedButtonEffects/?ref=producthunt
-Bootstrap Material Datepickers:
-http://t00rk.github.io/bootstrap-material-datetimepicker/
-https://codepen.io/SimeonC/pen/XJdWPy
-http://mominsamir.github.io/date-time-picker/#/time-picker-demo
-http://codepen.io/alenaksu/full/eNzbrZ
+* Bootstrap Material Datepickers:
+	http://t00rk.github.io/bootstrap-material-datetimepicker/
+	https://codepen.io/SimeonC/pen/XJdWPy
+	http://mominsamir.github.io/date-time-picker/#/time-picker-demo
+	http://codepen.io/alenaksu/full/eNzbrZ
 
-TUTORIAL VIEWS PLUGINS
+
+
+### TUTORIAL VIEWS PLUGINS
 * Bootstrap Tour: http://bootstraptour.com/
 * Intro.js: http://usablica.github.io/intro.js/
 * Pageguide.js: http://tracelytics.github.io/pageguide/
@@ -83,18 +88,21 @@ TUTORIAL VIEWS PLUGINS
 * BallonCss: http://kazzkiq.github.io/balloon.css/ (Tooltips library)
 
 
-STYLES: CSS, FONTS, ICONS
+
+### STYLES: CSS, FONTS, ICONS
 * Css Guide Lines: http://cssguidelin.es/
 * WebFont Generator: http://www.fontsquirrel.com/tools/webfont-generator
 * Loader animations: http://connoratherton.com/loaders
 * Loaders and Spinners: http://codepen.io/collection/HtAne/ (Large collection)
-Hamburguers:  https://jonsuh.com/hamburgers/ (Tasty CSS-animated hamburgers)
+Hamburguers: https://jonsuh.com/hamburgers/ (Tasty CSS-animated hamburgers)
 * Square loader: http://codepen.io/dicson/pen/vOxZjM
 * Snazzy Maps: https://snazzymaps.com/ (Free styles for Google Maps)
 * Css Triggers: http://csstriggers.com/ (A GAME OF LAYOUT, PAINT, AND COMPOSITE.)
 * Emojis: http://ned.im/wdt-emoji-bundle/
 
-ICONS
+
+
+### ICONS
 * SVG Porn: http://svgporn.com/ (Awesome collection of svg logos)
 * SMASHICONS: http://app.smashicons.com/
 * Flaticon: http://www.flaticon.com/
@@ -103,16 +111,19 @@ ICONS
 * Someicons: http://someicons.chrisveigt.com/
 * Iconshock: http://www.iconshock.com/social-media-icons/
 
-FONT ICONS
+
+
+### FONT ICONS
 * Fortawesome: http://fortawesome.github.io/Font-Awesome/icons/
 * Glyphicons: http://glyphicons.com/
 * Elegant icons: https://github.com/josephnle/elegant-icons
 * Simple line icons: https://github.com/thesabbir/simple-line-icons
-Devicons:  http://vorillaz.github.io/devicons/#/dafont
+* Devicons: http://vorillaz.github.io/devicons/#/dafont
 * Foundations icions: http://zurb.com/playground/foundation-icon-fonts-3
 
 
-JS
+
+### JS
 * Nedb: https://github.com/louischatriot/nedb
 * Learning JavaScript Design Patterns: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 * Javascript Guide Style: https://github.com/airbnb/javascript
@@ -165,18 +176,21 @@ JS
 * NotifyJs: https://notifyjs.com/
 
 
-MOBILE DEVELOPMENT
+
+### MOBILE DEVELOPMENT
 * MOBILE-FRIENDLY TEST By Google: https://www.google.com/webmasters/tools/mobile-friendly/
 * Infer: http://fbinfer.com/ (A tool to detect bugs in Android and iOS apps before they ship)
 
 
-REACTJS
+
+### REACTJS
 * Descubre React (BOOK): https://leanpub.com/b/reactjs-coffeescript
 * TouchstoneJS: http://touchstonejs.io/ (React.js powered UI framework for developing beautiful hybrid mobile apps.)
 * Relay: https://github.com/facebook/relay (JavaScript framework for building data-driven React applications)
 
 
-MeteorJS
+
+### MeteorJS
 * Discover meteor: https://www.discovermeteor.com/
 * Explore Meteor Packages: https://atmospherejs.com/
 * Handlebars: http://handlebarsjs.com/ (Let you build semantic templates effectively with no frustration.)
@@ -193,66 +207,79 @@ MeteorJS
 * Whatapp clone (Meteor + Ionic + Angular): http://info.meteor.com/blog/whatsapp-with-meteor-angular-and-ionic
 
 
-IONIC (http://ionicframework.com/)
+
+### IONIC (http://ionicframework.com/)
 * Ionic Market: https://market.ionic.io/
 * Ionic Material: https://market.ionic.io/themes/my-ionic-material-design
 
 
-BOTS
+
+### BOTS
 https://botsociety.io/
 https://botmock.com/
 https://rundexter.com/
 https://wit.ai/
 
 
-PHP
+
+### PHP
 * Carbon: http://carbon.nesbot.com/ (A simple PHP API extension for DateTime)
 * Glide: http://glide.thephpleague.com/ (Wonderfully easy on-demand image manipulation library written in PHP).
 
-ELM
+
+
+### ELM
 * Packages browser: http://package.elm-lang.org/.
 * Core packages: http://package.elm-lang.org/packages/elm-lang/core/3.0.0/
 
 
-TESTING
+
+### TESTING
 * Velocity: https://velocity.readme.io/ (Testing frameworks for meteor)
 * Jasmine: http://jasmine.github.io/2.1/custom_matcher.html
 * Selenium: http://www.seleniumhq.org/ (Selenium automates browsers.)
 * Nightwatchjs: http://nightwatchjs.org/ (End-to-End (E2E) Testing) (Sources)
 
 
-ENVIROMENTS FOR DEVELOP
+
+### ENVIROMENTS FOR DEVELOP
 * Vagrant: https://www.vagrantup.com/ (Development environments made easy.)
 * Jsbin: http://jsbin.com/help/features
 * Nitrous: https://www.nitrous.io/ (Cloud-based code editor with collaboration, one-click installs and snapshots)
 
 
-Gestores de procesos
+
+### Gestores de procesos
 * WebPack: http://webpack.github.io/ (Webpack is a bundler for modules)
 * Gulp.js: http://gulpjs.com/ (Automate and enhance your workflow)
 * Grunt.js: http://gruntjs.com/ (The JavaScript Task Runner)
 
 
 
-VAGRANT
+### VAGRANT
 * Vaprobash: https://github.com/fideloper/Vaprobash (Vagrant Provisioning Bash Scripts)
 * Vagrant Python 3.4: https://github.com/adionditsak/vagrant-python-env
 
-PAYMENTS WEB TOOLS INTEGRATIONS
+
+
+### PAYMENTS WEB TOOLS INTEGRATIONS
 * Stripe: https://stripe.com/
 * Mango: https://getmango.com/
 
 
-TEXT EDITORS
+
+### TEXT EDITORS
 * Sublime Text 3: http://www.sublimetext.com/3
 * Atom: https://atom.io/ (A hackable text editorfor the 21st Century)
 
 
-BIG DATA
+
+### BIG DATA
 * Jupyter: http://jupyter.org/ (Open source, interactive data science and scientific computing across over 40 programming languages.)
 
 
-SUBLIME TEXT 3
+
+### SUBLIME TEXT 3
 * Package Control: https://packagecontrol.io/installation
 * Material Theme: http://equinusocio.github.io/material-theme/
 * Sublime Alignment: http://wbond.net/sublime_packages/alignment
@@ -264,11 +291,14 @@ SUBLIME TEXT 3
 * Sidebar Enhancements: https://github.com/titoBouzout/SideBarEnhancements
 * SublimeLinter-jshint: https://github.com/SublimeLinter/SublimeLinter-jshint
 
-OPEN SOURCES
+
+
+### OPEN SOURCES
 * Owncloud: https://owncloud.org/ (You can have a dropbox in your own server :) )
 
 
-MULTIMEDIA
+
+### MULTIMEDIA
 * Dev_Tones: http://rcptones.com/dev_tones/ (Sound effects)
 * Videvo: http://www.videvo.net/ (free stock footage and motion graphics)
 * Pixabay: https://pixabay.com/ (Free images)
@@ -284,7 +314,8 @@ MULTIMEDIA
 * Unplash: https://unsplash.com (Free high-resolution photos.)
 
 
-OTHER COOL TOOLS
+
+### OTHER COOL TOOLS
 * Tool for generating random JSON data: http://www.json-generator.com/
 * Lipsum.pro: https://lipsum.pro/ (The superfast Lorem Ipsum text generator)
 * ColorHexa: http://www.colorhexa.com/
@@ -293,7 +324,7 @@ OTHER COOL TOOLS
 * Color Hunt: http://www.colorhunt.co/ (Curated collection of beautiful colors)
 * Material Palette: http://www.materialpalette.com/
 * Crayon: http://riccardoscalco.github.io/crayon/ (Because colors have a name)
-AnyApi:  https://any-api.com/ (Over 100 High-quality Public APIs)
+* AnyApi: https://any-api.com/ (Over 100 High-quality Public APIs)
 * Color thief: http://lokeshdhakar.com/projects/color-thief/ (Get the dominant color from an image.)
 * JavaScript Beautifier: http://jsbeautifier.org/
 * W3 Validator: http://validator.w3.org/
@@ -304,11 +335,13 @@ AnyApi:  https://any-api.com/ (Over 100 High-quality Public APIs)
 * CSS Filter Effects: http://html5-demos.appspot.com/static/css/filters/index.html
 * Screenfly: http://quirktools.com/screenfly (Test your website on any screen size including desktops).
 * Multi Screen Resolution Test: http://whatismyscreenresolution.net/multi-screen-test (Screen tester)
-Compressor.io:  https://compressor.io/ (Compress and optimize your images. Up to 90% file size reduction)
-Tiff:  http://tiff.herokuapp.com/ (Visually contrasts the differences between two fonts.)
+* Compressor.io: https://compressor.io/ (Compress and optimize your images. Up to 90% file size reduction)
+* Tiff: http://tiff.herokuapp.com/ (Visually contrasts the differences between two fonts.)
 * Wappalyzer: https://goo.gl/0tbkmn (Identifies software on the web)
 
-PROTOTYPING
+
+
+### PROTOTYPING
 * Precursor app: https://precursorapp.com/ (Easy prototype applications)
 * Flinto: https://www.flinto.com/mac (The prototyping tool designers have been waiting for.)
 * Articles about prototyping: http://goo.gl/vkXIzH, http://goo.gl/O3dFxh
@@ -321,7 +354,7 @@ PROTOTYPING
 
 
 
-COOL SERVICES
+### COOL SERVICES
 * Mixpanel: https://mixpanel.com/ (Actions speak louder than page views.)
 * Localizejs: https://localizejs.com/ (Easily translate dynamic applications)
 * Conversejs: https://conversejs.org/ (A free and open-source XMPP chat client in your browser)
@@ -329,7 +362,8 @@ COOL SERVICES
 * Hotjar: https://www.hotjar.com/ (All-in-one Analytics and Feedback.)
 
 
-WEBS FOR LEARNING
+
+### WEBS FOR LEARNING
 * DevDocs: http://devdocs.io/ (Combines multiple API documentations in a fast, organized, and searchable interface)
 * CodeHero: http://codehero.co/
 * Frontend Masters: https://frontendmasters.com/
@@ -342,14 +376,15 @@ WEBS FOR LEARNING
 * Snipplr: http://www.snipplr.com/
 
 
-AWESOME TEMPLATES
+
+### AWESOME TEMPLATES
 * HTML5UP: http://html5up.net/ (Free HTML5 Full Responsive templates)
-Material design templates:  http://www.getmdl.io/templates/index.html
+* Material design templates: http://www.getmdl.io/templates/index.html
 * Free HTML 5 templates: https://w3layouts.com/free-responsive-html5-css3-website-templates/
 
 
 
-MISCELLANEOUS (Other cool tools or webs are not necessarily for development)
+### MISCELLANEOUS (Other cool tools or webs are not necessarily for development)
 * Slides: https://slides.com (Slides is a place for creating, presenting and sharing slide decks.)
 * Slack: https://slack.com/
 * Discordapp: https://discordapp.com/ (All-in-one voice and text chat for gamers.)
