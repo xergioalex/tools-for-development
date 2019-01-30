@@ -16,6 +16,7 @@ This is a collaborative list of software, tools, libraries and whatnot that can 
 * ReactJS: http://facebook.github.io/react/ (A javascript library for building user interfaces)
 * MEAN.JS: http://meanjs.org/ (Open-Source Full-Stack Solution For MEAN Applications)
 * Django: https://www.djangoproject.com/ (High-level Python Web framework)
+* cookiecutter-django: https://github.com/pydanny/cookiecutter-django (Powered by Cookiecutter, Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.)
 * Ruby on rails: http://rubyonrails.org/ (Ruby Web Framework)
 * CodeIgniter: http://www.codeigniter.com/ (Powerful PHP framework with a very small footprint)
 * Kohana: https://kohanaframework.org/ (An elegant HMVC PHP5 framework )
@@ -28,7 +29,8 @@ This is a collaborative list of software, tools, libraries and whatnot that can 
 * Flask: http://flask.pocoo.org/ (Microframework for Python based on Werkzeug, Jinja 2 and good intentions.)
 * NativeScript: https://www.nativescript.org/ (Build truly native apps with JavaScript)
 
-
+## BACKEND
+* ngrok: https://ngrok.com/ (Public URLs for demoing from your own machine.)
 
 ### FRONTEND
 * Bootstrap: http://getbootstrap.com/ (The most popular front-end framework)
